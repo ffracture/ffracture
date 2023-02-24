@@ -2,7 +2,7 @@
 <h3 align="center">Aiming to be an backend developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on the CONTRA Java game<br><br>🌱 Basically, I'm on learning Java, Python and JavaScript so far<br><br>📫 You can easily contact me via anhvuiter@gmail.com
+🔭 I’m currently working on the CONTRA Java game<br><br>🌱 Basically, I'm on learning Java, Python and JavaScript so far<br><br>📫 You can easily contact me via anhvuiter@gmail.com <br><br>📚 Network Engineering student at International University - Vietnam National University
 
 
 ## 🌐 Socials:
