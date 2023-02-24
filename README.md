@@ -1,3 +1,5 @@
+![Untitled-1](https://user-images.githubusercontent.com/91337658/221214101-7f7d6f26-2771-4940-94fe-ddbfdeaf91d3.png)
+
 <h1 align="center">Hi 👋, I'm Vu Luong Anh</h1>
 <h3 align="center">Aiming to be an backend developer</h3>
 
