@@ -4,7 +4,7 @@
 <h3 align="center">Aiming to be a backend developer</h3>
 
 # 💫 About Me:
-📚 Network Engineering student at International University - Vietnam National University<br><br>🌱 Basically, I'm on learning Java, Python and JavaScript so far<br><br>📫 You can easily contact me via anhvuiter@gmail.com <br><br>🔭 I’m currently working on the CONTRA Java game
+📚 Network Engineering student at International University - Vietnam National University<br><br>🌱 Basically, I'm on learning Java, Python and JavaScript so far<br><br>📫 You can easily contact me via anhvuiter@gmail.com <br><br>
 
 
 ## 🌐 Socials:
@@ -15,7 +15,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ffracture&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ffracture&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ffracture&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ffracture&theme=radical&no-frame=true&no-bg=true&margin-w=4)
