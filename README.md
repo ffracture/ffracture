@@ -1,7 +1,7 @@
 ![Untitled-1](https://user-images.githubusercontent.com/91337658/221217215-3e97a2d7-e9f3-4801-b46c-7fe25ef1b245.png)
 
 <h1 align="center">Hi 👋, I'm Vu Luong Anh</h1>
-<h3 align="center">Aiming to be a backend developer</h3>
+<h3 align="center">Motivated, teamwork-oriented, and responsible engineer</h3>
 
 # 💫 About Me:
 📚 Network Engineering student at International University - Vietnam National University<br><br>🌱 Basically, I'm on learning Java, Python and JavaScript so far<br><br>📫 You can easily contact me via anhvuiter@gmail.com <br><br>
